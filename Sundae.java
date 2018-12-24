@@ -12,7 +12,7 @@ public class Sundae extends IceCream{
 
     public String getToppingName() {
         return toppingName;
-    }
+    } 
 
     public void setToppingName(String toppingName) {
         this.toppingName = toppingName;

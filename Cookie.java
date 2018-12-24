@@ -8,7 +8,7 @@ public class Cookie extends DessertItem {
         super(name);
         this.number = number;
         this.pricePerDozen = pricePerDozen;
-    }
+    } 
 
     @Override
     public int getCost() {

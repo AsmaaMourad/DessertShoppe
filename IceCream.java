@@ -1,7 +1,7 @@
 package com.company;
 
 public class IceCream extends DessertItem {
-    protected int cost;
+    protected int cost; 
 
     public IceCream(String name, int cost) {
         super(name);

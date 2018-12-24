@@ -23,7 +23,7 @@ public class Checkout {
     //Clears the Checkout to begin checking out a new set of items
     public void clear(){
         this.dessertItems.clear();
-    }
+    } 
 
     //Returns total cost of items in cents (without tax)
     public int totalCost(){
